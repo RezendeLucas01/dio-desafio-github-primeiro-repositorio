@@ -1,0 +1,16 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos mais usados:
+
+-git init (inicia um novo git)
+-git status (checa os status dos itens entre unmodified, modified ou staged)
+-git commit -m "mensagem" (commita as mudanças feitas)
+-git add * ou git add "nome do arquivo" (adiciona todos os itens staged ou adiciona item específico, respectivamente)
+-ls (lista os arquivos no diretório)
+-ls -a (lista todos os arquivos no diretório, inclusive itens ocultos
+-cd "nome da pasta" (move para o diretório citado)
+-cd .. (move para o diretório anterior do atual)
+-mkdir "nome da pasta" (cria um novo diretório)
+
+ctrl + L (limpar terminal)

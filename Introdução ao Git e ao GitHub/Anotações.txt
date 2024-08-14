@@ -13,6 +13,6 @@ Comandos mais usados:
 -cd .. (move para o diretório anterior do atual)
 -mkdir "nome da pasta" (cria um novo diretório)
 -git pull (puxa de volta quando arquivos dão algum erro)
--git push origin master (passa os arquivos do servidor local para o servidor remoto)
+-git push origin main (passa os arquivos do servidor local para o servidor remoto)
 
 ctrl + L (limpar terminal)
